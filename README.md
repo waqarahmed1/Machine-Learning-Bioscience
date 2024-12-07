@@ -1,5 +1,4 @@
-# Machine-Learning-Bioscience
-ML Application in Bioscience
+# Machine Learning for Biologists
 
 ## INTRODUCTION
 
@@ -22,7 +21,7 @@ ML Application in Bioscience
 
 ### Slides Content
 
-** Morning Session**
+**Morning Session**
 
 - Introduction
 - AI/ML Unpacked
@@ -36,7 +35,7 @@ ML Application in Bioscience
 - **LAB 1 - Protein Structure Prediction using ESMFold**
 - **LAB 2 - Physicochemical Properties Analysis of Protein Sequence Data**
 
-** Afternoon Session**
+**Afternoon Session**
 
 - Machine Learning Algorithms: Linear & Logistic Regression
 - Clustering Methods in ML
