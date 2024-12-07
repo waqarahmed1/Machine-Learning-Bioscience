@@ -60,8 +60,9 @@
 
 3. [LAB 3 - Modelling Protein Detectability on Mass Spectrometry with MLP Algorithm](https://colab.research.google.com/drive/1tXJbxi7O93guCJeEIC3ofC7XIeEGdoBl#scrollTo=4acfe790) 
 
+***
 
-## Supporting Notebooks
+## SUPPORTING NOTEBOOKS
 
 [Linear Regression](https://github.com/waqarahmed1/Machine-Learning-Bioscience/blob/main/AdditionalNotebooks/1.LinearRegression.ipynb)
 
@@ -74,5 +75,6 @@
 [XGBoost](https://colab.research.google.com/github/sigopt/sigopt-examples/blob/experiment-management/xgboost_py_classifier.ipynb#scrollTo=7Qmf-Jeo_nsH)
 
 [Principle Component Analysis (PCA)](https://github.com/waqarahmed1/Machine-Learning-Bioscience/blob/main/AdditionalNotebooks/4.PCA.ipynb)
+
 ***
-***
+
