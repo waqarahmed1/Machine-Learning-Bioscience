@@ -15,6 +15,40 @@ ML Application in Bioscience
 - Appraise participants with cutting edge utilisation of Machine Learning within Biology
 
 
+## SLIDES
+
+
+[Presentation Slides](https://github.com/waqarahmed1/Machine-Learning-Bioscience/blob/main/Slides/ML_Biologists_Workshop_Slides.pptx)
+
+### Slides Content
+
+** Morning Session**
+
+- Introduction
+- AI/ML Unpacked
+- Canonical Structure of AI Systems
+- AI: History and Current Rise
+- AI Classification & Taxonomy
+- Building Robust AI Models
+- Datasets in AI: Unstructured vs Structured Data
+- Introduction to Jupyter Notebooks
+- Overview of Key Python Libraries for Machine Learning in Bioscience
+- **LAB 1 - Protein Structure Prediction using ESMFold**
+- **LAB 2 - Physicochemical Properties Analysis of Protein Sequence Data**
+
+** Afternoon Session**
+
+- Machine Learning Algorithms: Linear & Logistic Regression
+- Clustering Methods in ML
+- Ensemble Learning Techniques
+- Boosting Algorithms
+- Mathematical Underpinnings of ML
+- Introduction to Large Language Models (LLMs)
+- LLM Experimentation
+- **LAB 3 - Modelling Protein Detectability on Mass Spectrometry with MLP Algorithm**
+
+***
+
 ## LABS
 
 1. **LAB 1 - Protein Structure Prediction using ESMFold**
