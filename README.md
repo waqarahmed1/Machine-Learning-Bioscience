@@ -17,9 +17,9 @@ ML Application in Bioscience
 
 ## LABS
 
-### LAB 1 - Protein Structure Prediction using ESMFold
+**LAB 1 - Protein Structure Prediction using ESMFold
 
-[First Notebook - Simple protein fold inference](https://https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb)
+[First Notebook - Simple protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb)
 
 [Second Notebook - Advanced protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/ESMFold_advanced.ipynb)
 
@@ -30,7 +30,7 @@ ML Application in Bioscience
 
 ## Supporting Notebooks
 
-[Linear Regression]
+[Linear Regression](https://github.com/waqarahmed1/Machine-Learning-Bioscience/blob/main/AdditionalNotebooks/1.LinearRegression.ipynb)
 
 [Logistic Regression](https://colab.research.google.com/github/diannekrouse/LRPython/blob/master/LogisticRegression.ipynb#scrollTo=adkqunikbhGd)
 
@@ -40,8 +40,6 @@ ML Application in Bioscience
 
 [XGBoost](https://colab.research.google.com/github/sigopt/sigopt-examples/blob/experiment-management/xgboost_py_classifier.ipynb#scrollTo=7Qmf-Jeo_nsH)
 
-
-[Principle Component Analysis (PCA)]
-
+[Principle Component Analysis (PCA)](https://github.com/waqarahmed1/Machine-Learning-Bioscience/blob/main/AdditionalNotebooks/4.PCA.ipynb)
 ***
 ***
