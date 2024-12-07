@@ -17,15 +17,15 @@ ML Application in Bioscience
 
 ## LABS
 
-**LAB 1 - Protein Structure Prediction using ESMFold
+1. **LAB 1 - Protein Structure Prediction using ESMFold**
 
-[First Notebook - Simple protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb)
+	- [First Notebook - Simple protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb)
 
-[Second Notebook - Advanced protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/ESMFold_advanced.ipynb)
+	- [Second Notebook - Advanced protein fold inference](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/ESMFold_advanced.ipynb)
 
-[LAB 2 - Physicochemical Properties Analysis of Protein Sequence Data](https://colab.research.google.com/drive/1mdL5pJHk7IJZKC893MtemXI9Dqt_0Xug?usp=sharing)
+2. [LAB 2 - Physicochemical Properties Analysis of Protein Sequence Data](https://colab.research.google.com/drive/1mdL5pJHk7IJZKC893MtemXI9Dqt_0Xug?usp=sharing)
 
-[LAB 3 - Modelling Protein Detectability on Mass Spectrometry with MLP Algorithm](https://colab.research.google.com/drive/1tXJbxi7O93guCJeEIC3ofC7XIeEGdoBl#scrollTo=4acfe790) 
+3. [LAB 3 - Modelling Protein Detectability on Mass Spectrometry with MLP Algorithm](https://colab.research.google.com/drive/1tXJbxi7O93guCJeEIC3ofC7XIeEGdoBl#scrollTo=4acfe790) 
 
 
 ## Supporting Notebooks
